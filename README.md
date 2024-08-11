@@ -12,7 +12,7 @@ I’m Desmond, a dedicated full-stack developer with a passion for building empa
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /><br />Contact: dumont.darville@gmail.com
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /><br /> Tools:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /><br /> Tech Stack:
 <h3 align="left">Languages:</h3>
 <table>
   <thead>
