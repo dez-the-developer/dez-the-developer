@@ -51,6 +51,7 @@ I’m Desmond, a dedicated full-stack developer with a passion for building empa
       <th>React</th>
       <th>NodeJS</th>
       <th>Spring</th>
+      <th>Bootstrap</th>
    </tr>
   </thead>
   <tbody>
@@ -63,6 +64,9 @@ I’m Desmond, a dedicated full-stack developer with a passion for building empa
       </td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
       </td>
     </tr>
   </tbody>
