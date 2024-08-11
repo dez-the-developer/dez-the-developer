@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Desmond+Darville;Welcome+to+my+Github!🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Desmond+Darville;Welcome+to+my+Github!🚀;Bringing+Dreams✨+to+Life+One+Line+of+Code+at+a+Time⚡️)
 
 # Software Engineer, Innovator, Developer, and Creator
 I’m Desmond, a dedicated full-stack developer with a passion for building empathy-driven applications and fostering inclusivity in the tech industry. As an advocate for diversity, equity, and inclusion, I am committed to making meaningful contributions through my work.
