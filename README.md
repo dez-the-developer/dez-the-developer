@@ -3,7 +3,8 @@
 # Software Engineer, Innovator, Developer, and Creator
 I’m Desmond, a dedicated full-stack developer with a passion for building empathy-driven applications and fostering inclusivity in the tech industry. As an advocate for diversity, equity, and inclusion, I am committed to making meaningful contributions through my work.
 
-🚀 Current Projects: I’m currently working on Codeypendent, a full-stack web application built with Java, MySQL, and Spring Boot on the backend, and React, JavaScript, and Bootstrap for the frontend.
+🚀 Current Projects: I’m currently working on Codeypendent, a full-stack web application built with Java, MySQL, and Spring Boot on the backend, and React, JavaScript, and Bootstrap for the frontend. Codeypendent, or "Cody," acts as a conscious coding companion that helps developers maintain wellness by providing reminders to take breaks, stay hydrated, and maintain good posture. As the project evolves, Cody will expand its capabilities to further support the holistic well-being of programmers.
+
 
 🧠 Learning Journey: I’m on a continuous journey of mastering full-stack development skills, including HTML, CSS, JavaScript, Node.js, React, and backend technologies like Java and SQL. I’m dedicated to deepening my knowledge in responsive design, API development, and cloud computing to build robust and scalable applications.
 
