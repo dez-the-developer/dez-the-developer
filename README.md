@@ -1,18 +1,18 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Desmond+Darville;Welcome+to+my+Github!🚀)
+<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Hi+.+.+I'm+Desmond+👽;Welcome+to+my+Github!✨)
 
-# Software Engineer, Innovator, Developer, and Creator
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Software Engineer, Innovator, Developer, and Creator
 I’m Desmond, a dedicated full-stack developer with a passion for building empathy-driven applications and fostering inclusivity in the tech industry. As an advocate for diversity, equity, and inclusion, I am committed to making meaningful contributions through my work.
 
-🚀 Current Projects: I’m currently working on Codeypendent, a full-stack web application built with Java, MySQL, and Spring Boot on the backend, and React, JavaScript, and Bootstrap for the frontend. Codeypendent, or "Cody," acts as a conscious coding companion that helps developers maintain wellness by providing reminders to take breaks, stay hydrated, and maintain good posture. As the project evolves, Cody will expand its capabilities to further support the holistic well-being of programmers.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /><br /> Current Projects: I’m currently working on Codeypendent, a full-stack web application built with Java, MySQL, and Spring Boot on the backend, and React, JavaScript, and Bootstrap for the frontend. Codeypendent, or "Cody," acts as a conscious coding companion that helps developers maintain wellness by providing reminders to take breaks, stay hydrated, and maintain good posture. As the project evolves, Cody will expand its capabilities to further support the holistic well-being of programmers.
 
 
-🧠 Learning Journey: I’m on a continuous journey of mastering full-stack development skills, including HTML, CSS, JavaScript, Node.js, React, and backend technologies like Java and SQL. I’m dedicated to deepening my knowledge in responsive design, API development, and cloud computing to build robust and scalable applications.
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /><br /> Learning Journey: I’m on a continuous journey of mastering full-stack development skills, including HTML, CSS, JavaScript, Node.js, React, and backend technologies like Java and SQL. I’m dedicated to deepening my knowledge in responsive design, API development, and cloud computing to build robust and scalable applications.
 
-🌍 Location: Hollywood, Florida
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" /><br /> Location: Hollywood, Florida
 
-✉️ Contact: dumont.darville@gmail.com
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /><br />Contact: dumont.darville@gmail.com
 
-## 💻 Tech Stack:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /><br /> Tools:
 <h3 align="left">Languages:</h3>
 <table>
   <thead>
@@ -89,11 +89,11 @@ I’m Desmond, a dedicated full-stack developer with a passion for building empa
   </body>
 </table>
 
-## 📊 GitHub Stats:
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dez-the-developer&show_icons=true&count_private=true&hide=issues&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dez-the-developer&layout=compact&theme=radical)
 
-## 🌐 Socials:
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="30" height="30" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_PROFILE)
 
