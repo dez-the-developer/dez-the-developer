@@ -3,9 +3,6 @@
 # Software Engineer, Innovator, Developer, and Creator
 I’m Desmond, a dedicated full-stack developer with a passion for building empathy-driven applications and fostering inclusivity in the tech industry. As an advocate for diversity, equity, and inclusion, I am committed to making meaningful contributions through my work.
 
-
-My journey began in the Bahamas, where I owned a painting business, and led me to South Florida, where I transitioned into a new career in software engineering and web development. I’m excited to continue growing and making an impact in the tech community.
-
 🚀 Current Projects: I’m currently working on Codeypendent, a full-stack web application built with Java, MySQL, and Spring Boot on the backend, and React, JavaScript, and Bootstrap for the frontend.
 
 🧠 Learning Journey: I’m on a continuous journey of mastering full-stack development skills, including HTML, CSS, JavaScript, Node.js, React, and backend technologies like Java and SQL. I’m dedicated to deepening my knowledge in responsive design, API development, and cloud computing to build robust and scalable applications.
