@@ -12,6 +12,8 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /><br />Contact: dumont.darville@gmail.com
 
+<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
+
 <h2 align="center" height="80" width="80">🅣🅔🅒🅗 🅢🅣🅐🅒🅚</h2>
 <h3 align="center">Languages</h3>
 <table align="center">
