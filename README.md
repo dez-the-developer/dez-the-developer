@@ -28,8 +28,8 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   </thead>
   <tbody>
     <tr>
-      <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" margin-left="20" width="50" height="50" />
