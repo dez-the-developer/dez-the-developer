@@ -12,9 +12,9 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /><br />Contact: dumont.darville@gmail.com
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /><br /> Tech Stack:
-<h3 align="left">Languages:</h3>
-<table>
+<h2 align="center" height="80" width="80">🅣🅔🅒🅗 🅢🅣🅐🅒🅚</h2>
+<h3 align="center">Languages:</h3>
+<table align="center">
   <thead>
     <tr>
       <th>Java</th>
@@ -45,8 +45,8 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   </tbody>
 </table>
 
-<h3 align="left">Frameworks & Libraries:</h3>
-<table>
+<h3 align="center">Frameworks & Libraries:</h3>
+<table align="center">
   <thead>
     <tr>
       <th>React</th>
@@ -73,8 +73,8 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   </tbody>
 </table>
 
-<h3 align="left">Databases:</h3>
-<table>
+<h3 align="center">Databases:</h3>
+<table align="center">
   <thead>
     <tr>
       <th>MySQL</th>
@@ -89,11 +89,20 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   </body>
 </table>
 
-## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dez-the-developer&show_icons=true&count_private=true&hide=issues&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dez-the-developer&layout=compact&theme=radical)
+<hr/>
 
-## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="30" height="30" /> Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_PROFILE)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dez-the-developer&theme=gotham&layout=compact"width="40%"/> 
+</p>
+
+<p align="center">
+<a href="https://github.com/dez-the-developer?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=dez-the-developer&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" github-readme-stats"/></a>
+<a href="https://github.com/dez-the-develoepr?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=dez-the-developer&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" github-readme-streak-stats"/></a>
+</p>
+
+## <h3 align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+   </h3>
+<a href="https://www.linkedin.com/in/desmonddarville" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/dezthedeveloper?igsh=eHRlNHM0a204ZmFo&utm_source=qr" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 
