@@ -13,7 +13,7 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /><br />Contact: dumont.darville@gmail.com
 
 <h2 align="center" height="80" width="80">🅣🅔🅒🅗 🅢🅣🅐🅒🅚</h2>
-<h3 align="center">Languages:</h3>
+<h3 align="center">Languages</h3>
 <table align="center">
   <thead>
     <tr>
@@ -45,7 +45,7 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   </tbody>
 </table>
 
-<h3 align="center">Frameworks & Libraries:</h3>
+<h3 align="center">Frameworks & Libraries</h3>
 <table align="center">
   <thead>
     <tr>
@@ -73,7 +73,7 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   </tbody>
 </table>
 
-<h3 align="center">Databases:</h3>
+<h3 align="center">Databases</h3>
 <table align="center">
   <thead>
     <tr>
