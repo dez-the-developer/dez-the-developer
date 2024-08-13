@@ -29,11 +29,11 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
       </td>
-      <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55" style="max-width: 100%;">
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" margin-left="20" width="50" height="50" />
       </td>
-      <td>
-        <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="55" height="55" style="max-width: 100%;">
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
       </td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
@@ -58,7 +58,7 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       </td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
@@ -82,8 +82,8 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   </thead>
   <body>
     <tr>
-      <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       </td>
     </tr>
   </body>
