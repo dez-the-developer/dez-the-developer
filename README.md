@@ -68,7 +68,7 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
       </td>
-      <td>
+      <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
       </td>
     </tr>
