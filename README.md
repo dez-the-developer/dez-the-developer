@@ -16,6 +16,8 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /><br />Contact: dumont.darville@gmail.com
 
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
 <div align="center">
     <i style="font-size: 10px;">
         "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
