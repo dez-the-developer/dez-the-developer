@@ -1,4 +1,8 @@
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /><br /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=F75C7E&background=FFFFFF00&multiline=true&random=false&width=435&height=100&lines=Hi+.+.+I'm+Desmond👽;Welcome+to+my+GitHub!✨" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="60" /><br />
+
+<img src="https://readme-typing-svg.demolab.com/?lines=HI%20.%20.%20I'M%20DESMOND%20👽;SOFTWARE%20ENGINEER%20🪄;FULL-STACK%20WEB%20DEVELOPER⚡;WELCOME%20TO%20MY%20GITHUB✨&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+
+<!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=F75C7E&background=FFFFFF00&multiline=true&random=false&width=435&height=100&lines=Hi+.+.+I'm+Desmond👽;Welcome+to+my+GitHub!✨" alt="Typing SVG" /> -->
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Software Engineer, Innovator, Developer, and Creator
 I’m a dedicated full-stack developer with a passion for building empathy-driven applications and fostering inclusivity in the tech industry. As an advocate for diversity, equity, and inclusion, I am committed to making meaningful contributions through my work.
