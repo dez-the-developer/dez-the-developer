@@ -105,6 +105,6 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
 <h3 align="center">
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </h3>
-<a align="center" href="https://www.linkedin.com/in/desmonddarville" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a align="center" href="https://www.instagram.com/dezthedeveloper?igsh=eHRlNHM0a204ZmFo&utm_source=qr" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<p align="center"><a  href="https://www.linkedin.com/in/desmonddarville" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a align="center" href="https://www.instagram.com/dezthedeveloper?igsh=eHRlNHM0a204ZmFo&utm_source=qr" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
