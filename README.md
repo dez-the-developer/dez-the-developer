@@ -4,7 +4,7 @@
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=F75C7E&background=FFFFFF00&multiline=true&random=false&width=435&height=100&lines=Hi+.+.+I'm+Desmond👽;Welcome+to+my+GitHub!✨" alt="Typing SVG" /> -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Software Engineer, Innovator, Developer, and Creator
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" /> Software Engineer, Innovator, Developer, and Creator
 I’m a dedicated full-stack developer with a passion for building empathy-driven applications and fostering inclusivity in the tech industry. As an advocate for diversity, equity, and inclusion, I am committed to making meaningful contributions through my work.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /><br /> Current Projects: I’m currently working on Codypendent, a full-stack web application built with Java, MySQL, and Spring Boot on the backend, and React, JavaScript, and Bootstrap for the frontend. Codypendent, or "Cody," acts as a conscious coding companion that helps developers maintain wellness by providing reminders to take breaks, stay hydrated, and maintain good posture. As the project evolves, Cody will expand its capabilities to further support the holistic well-being of programmers.
