@@ -96,6 +96,7 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
   <thead>
     <tr>
       <th>MySQL</th>
+      <th>MongoDB</th>
     </tr>
   </thead>
   <body>
@@ -103,6 +104,9 @@ I’m a dedicated full-stack developer with a passion for building empathy-drive
       <td align="center">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       </td>
+       <td align="center">
+         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+       </td>
     </tr>
   </body>
 </table>
