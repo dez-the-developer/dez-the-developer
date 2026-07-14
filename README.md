@@ -2,17 +2,16 @@
 
 <h2 align="center"></h2>
 
-<!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=F75C7E&background=FFFFFF00&multiline=true&random=false&width=435&height=100&lines=Hi+.+.+I'm+Desmond👽;Welcome+to+my+GitHub!✨" alt="Typing SVG" /> -->
+<!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=F75C7E&background=FFFFFF00&multiline=true&random=false&width=435&height=100&lines=Hi+.+.+I'm+Dez;I+build+AI+automations+that+make+money" alt="Typing SVG" /> -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" /> Software Engineer, Innovator, Developer, and Creator
-I’m a dedicated full-stack developer with a passion for building empathy-driven applications and fostering inclusivity in the tech industry. As an advocate for diversity, equity, and inclusion, I am committed to making meaningful contributions through my work.
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" /> AI Automation Engineer
+I build AI automation and websites for B2B that add six figures in output and save teams 40+ hours a month. Lead-gen engines, AI agents, and business automations that turn manual work into booked calls and real pipeline. Mentored through Nick Saraev's Maker School.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /><br /> Current Projects: I’m currently working on Codypendent, a full-stack web application built with Java, MySQL, and Spring Boot on the backend, and React, JavaScript, and Bootstrap for the frontend. Codypendent, or "Cody," acts as a conscious coding companion that helps developers maintain wellness by providing reminders to take breaks, stay hydrated, and maintain good posture. As the project evolves, Cody will expand its capabilities to further support the holistic well-being of programmers.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /><br /> **What I've shipped:** $240K+/yr in added output for a manufacturer by automating its QA process. $65K+ in qualified pipeline in the first 14 days from an AI lead-sourcing system I built. Client work across American Express, Intuit, and Hutchison Port Holdings.
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /><br /> **What I build:** Automated lead gen and outreach, AI content engines, business process automation, AI agents and chatbots (Claude, OpenAI, n8n), and CRM and sales pipeline automation. Every build ships with documentation and a Loom walkthrough so your team can run it without me.
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /><br /> Learning Journey: I’m on a continuous journey of mastering full-stack development skills, including HTML, CSS, JavaScript, Node.js, React, and backend technologies like Java and SQL. I’m dedicated to deepening my knowledge in responsive design, API development, and cloud computing to build robust and scalable applications.
-
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" /><br /> Location: Hollywood, Florida
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" /><br /> **Location:** Miami, Florida
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /><br />Contact: dumont.darville@gmail.com
 
